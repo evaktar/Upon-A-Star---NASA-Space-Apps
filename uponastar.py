@@ -4,10 +4,6 @@
 
 # Eva
 
-# Shanza
-
-# BCU
-
 # RUN THIS FILE FOR GAME
 
 
